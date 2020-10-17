@@ -1,23 +1,44 @@
 #!/bin/bash
 # CamPhish v1.0
-# Powered by KomailKhan
-# Credits goes to Freaked Dude [github.com/Freaked-Dude/]
+# Powered by. HASNI EDITX
+# Credits goes to HASNI EDITX
 
 trap 'printf "\n";stop' 2
+╝\e[0m\n"
+printf "\033[1;95m                     WhatsApp: +447517701116              \e[0m\n\n"
 
-banner() {
-clear
-printf "\033[1;91m░█████╗░  ░░░░░░ ██╗░░██╗░█████╗░░█████╗░██╗░░██╗\e[0m\n"
-printf "\033[1;92m██╔══██╗  ░░░░░░ ██║░░██║██╔══██╗██╔══██╗██║░██╔╝\e[0m\n"
-printf "\033[1;93m██║░░╚═╝  █████╗ ███████║███████║██║░░╚═╝█████═╝░\e[0m\n"
-printf "\033[1;95m██║░░██╗  ╚════╝ ██╔══██║██╔══██║██║░░██╗██╔═██╗░\e[0m\n"
-printf "\033[1;96m╚█████╔╝  ░░░░░░ ██║░░██║██║░░██║╚█████╔╝██║░╚██╗\e[0m\n"
-printf "\033[1;97m░╚════╝░  ░░░░░░ ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝\e[0m\n"
-printf "\033[1;95m                     WhatsApp: +923124788959              \e[0m\n\n"
 
-printf "\033[1;95m Youtube |  Youtube.com/UCDJbhYSPToi1-CdzGLEzAIQ\e[0m\n"
 
-printf "\n"
+print
+
+                       HASNI EDITIX
+
+          
+                       H̴̢͎͉͑͘̕À̴̙̺̪̀͝S̵̘͎͓͊̈́͊N̵̫͙̻̐̈́̐I̵̦̞̞͒͊-̵̢̢͚͆͌͝C̵͉̦̘̐̿̚-̴̞͍̪̓́͠H̸̫̙̞̓͛Ä̵̢̢̟́͌͋C̸̟͕̫̓͋̚K̴̺͙̠͋͛͠
+
+
+                  whatsapp.   +547517701116
+   
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+
+
+     
+
+
 
 
 }
